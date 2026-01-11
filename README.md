@@ -21,6 +21,7 @@ Server resource limitations (CPU/RAM)
 Slow database queries or high query volume
 Network bandwidth constraints
 To investigate further, I would monitor server metrics, analyze database performance, and conduct load testing to identify bottlenecks.
+
 SECTION G: TECHNICAL MINDSET & PROBLEM SOLVING 
 1. Learning a New Technical Skill
 I start by understanding the overall concept and real-world use cases. Then I learn the basics from documentation or tutorials and practice with small examples. Building a mini project helps reinforce learning. I know I’ve understood it when I can apply it independently.
